@@ -1,0 +1,46 @@
+2025-03-23 15:08:46,737 - BecasExtractor - INFO - Se encontraron 5 archivos para procesar
+2025-03-23 15:08:46,738 - BecasExtractor - INFO - Procesando archivo: ayudas_20-21_text.txt
+2025-03-23 15:08:46,747 - BecasExtractor - WARNING - El archivo ayudas_20-21_text.txt no contiene datos válidos de convocatoria de becas
+2025-03-23 15:08:46,749 - BecasExtractor - INFO - Procesando archivo: ayudas_21-22_text.txt
+2025-03-23 15:08:46,823 - BecasExtractor - INFO - Extracción exitosa para: ayudas_21-22_text.txt
+2025-03-23 15:08:46,823 - BecasExtractor - INFO - Procesando archivo: ayudas_22-23_text.txt
+2025-03-23 15:08:46,862 - BecasExtractor - INFO - Extracción exitosa para: ayudas_22-23_text.txt
+2025-03-23 15:08:46,863 - BecasExtractor - INFO - Procesando archivo: ayudas_23-24_text.txt
+2025-03-23 15:08:46,918 - BecasExtractor - INFO - Extracción exitosa para: ayudas_23-24_text.txt
+2025-03-23 15:08:46,918 - BecasExtractor - INFO - Procesando archivo: ayudas_24-25_text.txt
+2025-03-23 15:08:46,960 - BecasExtractor - INFO - Extracción exitosa para: ayudas_24-25_text.txt
+2025-03-23 15:08:46,981 - BecasExtractor - INFO - Procesamiento completado:
+2025-03-23 15:08:46,983 - BecasExtractor - INFO - - Documentos procesados: 4
+2025-03-23 15:08:46,985 - BecasExtractor - INFO - - Resultados guardados en: ./output\becas_datos.json
+2025-03-23 15:08:46,987 - BecasExtractor - INFO - - Resumen generado en: ./output\becas_resumen.md
+2025-03-23 15:16:03,984 - BecasExtractor - INFO - Se encontraron 5 archivos para procesar
+2025-03-23 15:16:03,984 - BecasExtractor - INFO - Procesando archivo: ayudas_20-21_text.txt
+2025-03-23 15:16:03,986 - BecasExtractor - WARNING - El archivo ayudas_20-21_text.txt no contiene datos válidos de convocatoria de becas
+2025-03-23 15:16:03,986 - BecasExtractor - INFO - Procesando archivo: ayudas_21-22_text.txt
+2025-03-23 15:16:04,002 - BecasExtractor - INFO - Extracción exitosa para: ayudas_21-22_text.txt
+2025-03-23 15:16:04,003 - BecasExtractor - INFO - Procesando archivo: ayudas_22-23_text.txt
+2025-03-23 15:16:04,015 - BecasExtractor - INFO - Extracción exitosa para: ayudas_22-23_text.txt
+2025-03-23 15:16:04,015 - BecasExtractor - INFO - Procesando archivo: ayudas_23-24_text.txt
+2025-03-23 15:16:04,026 - BecasExtractor - INFO - Extracción exitosa para: ayudas_23-24_text.txt
+2025-03-23 15:16:04,027 - BecasExtractor - INFO - Procesando archivo: ayudas_24-25_text.txt
+2025-03-23 15:16:04,039 - BecasExtractor - INFO - Extracción exitosa para: ayudas_24-25_text.txt
+2025-03-23 15:16:46,823 - BecasExtractor - INFO - Se encontraron 5 archivos para procesar
+2025-03-23 15:16:46,824 - BecasExtractor - INFO - Procesando archivo: ayudas_20-21_text.txt
+2025-03-23 15:16:46,827 - BecasExtractor - WARNING - El archivo ayudas_20-21_text.txt no contiene datos válidos de convocatoria de becas
+2025-03-23 15:16:46,828 - BecasExtractor - INFO - Procesando archivo: ayudas_21-22_text.txt
+2025-03-23 15:16:46,853 - BecasExtractor - INFO - Extracción exitosa para: ayudas_21-22_text.txt
+2025-03-23 15:16:46,853 - BecasExtractor - INFO - Procesando archivo: ayudas_22-23_text.txt
+2025-03-23 15:16:46,874 - BecasExtractor - INFO - Extracción exitosa para: ayudas_22-23_text.txt
+2025-03-23 15:16:46,874 - BecasExtractor - INFO - Procesando archivo: ayudas_23-24_text.txt
+2025-03-23 15:16:46,892 - BecasExtractor - INFO - Extracción exitosa para: ayudas_23-24_text.txt
+2025-03-23 15:16:46,893 - BecasExtractor - INFO - Procesando archivo: ayudas_24-25_text.txt
+2025-03-23 15:16:46,908 - BecasExtractor - INFO - Extracción exitosa para: ayudas_24-25_text.txt
+2025-03-23 15:16:46,915 - BecasExtractor - INFO - Procesamiento completado:
+2025-03-23 15:16:46,915 - BecasExtractor - INFO - - Documentos procesados: 4
+2025-03-23 15:16:46,916 - BecasExtractor - INFO - - Resultados guardados en: ./output\becas_datos.json
+2025-03-23 15:16:46,916 - BecasExtractor - INFO - - Resumen general generado en: ./output\becas_resumen.md
+2025-03-23 15:16:46,916 - BecasExtractor - INFO - - Resúmenes individuales generados:
+2025-03-23 15:16:46,917 - BecasExtractor - INFO -   1. ./output\beca_1.md
+2025-03-23 15:16:46,917 - BecasExtractor - INFO -   2. ./output\beca_2.md
+2025-03-23 15:16:46,917 - BecasExtractor - INFO -   3. ./output\beca_3.md
+2025-03-23 15:16:46,918 - BecasExtractor - INFO -   4. ./output\beca_4.md

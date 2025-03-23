@@ -1,0 +1,636 @@
+[
+  {
+    "file_name": "ayudas_21-22_text.txt",
+    "valid": true,
+    "extraction_date": "2025-03-23 15:16:46",
+    "academic_year": {
+      "year": "2021-2022",
+      "description": "Convocatoria de becas para el curso académico 2021-2022"
+    },
+    "eligible_studies": {
+      "description": "Estudios para los que se puede solicitar beca",
+      "university_studies": [],
+      "non_university_studies": [],
+      "non_university_section": "Enseñanzas postobligatorias y superiores no universitarias",
+      "university_section": "Enseñanzas universitarias del sistema universitario español"
+    },
+    "scholarship_amounts": {
+      "description": "Cuantías y componentes de las becas",
+      "components": [
+        {
+          "type": "Beca de matrícula",
+          "amount_description": "Cobertura del precio público oficial de los servicios académicos"
+        },
+        {
+          "type": "Cuantía fija ligada a la renta",
+          "amount": "700.00",
+          "amount_description": "700,00 euros"
+        },
+        {
+          "type": "Cuantía fija ligada a la residencia",
+          "amount": "600.00",
+          "amount_description": "600,00 euros"
+        },
+        {
+          "type": "Cuantía fija ligada a la excelencia académica",
+          "ranges": []
+        },
+        {
+          "type": "Beca básica",
+          "amount": "300.00",
+          "amount_description": "300,00 euros"
+        },
+        {
+          "type": "Cuantía variable",
+          "minimum_amount": "60.00",
+          "amount_description": "Mínimo de 60,00 euros",
+          "formula_description": "Resultará de la ponderación de la nota media del expediente y la renta familiar"
+        }
+      ]
+    },
+    "income_thresholds": {
+      "description": "Umbrales de renta familiar aplicables para la concesión de las becas",
+      "thresholds": [
+        {
+          "number": 1,
+          "family_sizes": [
+            {
+              "size": "1",
+              "amount": "8.422",
+              "description": "Familias de 1 miembros: 8.422 euros"
+            },
+            {
+              "size": "2",
+              "amount": "12.632",
+              "description": "Familias de 2 miembros: 12.632 euros"
+            },
+            {
+              "size": "3",
+              "amount": "16.843",
+              "description": "Familias de 3 miembros: 16.843 euros"
+            },
+            {
+              "size": "4",
+              "amount": "21.054",
+              "description": "Familias de 4 miembros: 21.054 euros"
+            },
+            {
+              "size": "5",
+              "amount": "24.423",
+              "description": "Familias de 5 miembros: 24.423 euros"
+            },
+            {
+              "size": "6",
+              "amount": "27.791",
+              "description": "Familias de 6 miembros: 27.791 euros"
+            },
+            {
+              "size": "7",
+              "amount": "31.160",
+              "description": "Familias de 7 miembros: 31.160 euros"
+            },
+            {
+              "size": "8",
+              "amount": "34.529",
+              "description": "Familias de 8 miembros: 34.529 euros"
+            }
+          ],
+          "additional_info": {
+            "description": "A partir del octavo miembro se añadirán 81,00 euros por cada nuevo miembro computable",
+            "amount_per_member": "81.00"
+          }
+        },
+        {
+          "number": 2,
+          "family_sizes": [
+            {
+              "size": "1",
+              "amount": "13.236",
+              "description": "Familias de 1 miembros: 13.236 euros"
+            },
+            {
+              "size": "2",
+              "amount": "22.594",
+              "description": "Familias de 2 miembros: 22.594 euros"
+            },
+            {
+              "size": "3",
+              "amount": "30.668",
+              "description": "Familias de 3 miembros: 30.668 euros"
+            },
+            {
+              "size": "4",
+              "amount": "36.421",
+              "description": "Familias de 4 miembros: 36.421 euros"
+            },
+            {
+              "size": "5",
+              "amount": "40.708",
+              "description": "Familias de 5 miembros: 40.708 euros"
+            },
+            {
+              "size": "6",
+              "amount": "43.945",
+              "description": "Familias de 6 miembros: 43.945 euros"
+            },
+            {
+              "size": "7",
+              "amount": "47.146",
+              "description": "Familias de 7 miembros: 47.146 euros"
+            },
+            {
+              "size": "8",
+              "amount": "50.333",
+              "description": "Familias de 8 miembros: 50.333 euros"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "family_sizes": [
+            {
+              "size": "1",
+              "amount": "14.112",
+              "description": "Familias de 1 miembros: 14.112 euros"
+            },
+            {
+              "size": "2",
+              "amount": "24.089",
+              "description": "Familias de 2 miembros: 24.089 euros"
+            },
+            {
+              "size": "3",
+              "amount": "32.697",
+              "description": "Familias de 3 miembros: 32.697 euros"
+            },
+            {
+              "size": "4",
+              "amount": "38.831",
+              "description": "Familias de 4 miembros: 38.831 euros"
+            },
+            {
+              "size": "5",
+              "amount": "43.402",
+              "description": "Familias de 5 miembros: 43.402 euros"
+            },
+            {
+              "size": "6",
+              "amount": "46.853",
+              "description": "Familias de 6 miembros: 46.853 euros"
+            },
+            {
+              "size": "7",
+              "amount": "50.267",
+              "description": "Familias de 7 miembros: 50.267 euros"
+            },
+            {
+              "size": "8",
+              "amount": "53.665",
+              "description": "Familias de 8 miembros: 53.665 euros"
+            }
+          ],
+          "additional_info": {
+            "description": "A partir del octavo miembro se añadirán 368,00 euros por cada nuevo miembro computable",
+            "amount_per_member": "368.00"
+          }
+        }
+      ]
+    },
+    "application_deadlines": {
+      "description": "Plazos para presentar la solicitud de beca",
+      "deadlines": [
+        {
+          "type": "Estudiantes universitarios",
+          "deadline": "14 de octubre de 2021",
+          "description": "Para estudiantes universitarios: hasta el 14 de octubre de 2021"
+        },
+        {
+          "type": "Estudiantes no universitarios",
+          "deadline": "30 de septiembre de 2021",
+          "description": "Para estudiantes no universitarios: hasta el 30 de septiembre de 2021"
+        }
+      ]
+    },
+    "academic_requirements": {
+      "description": "Requisitos académicos para obtener beca",
+      "requirements": [
+        {
+          "type": "Porcentaje de créditos por área",
+          "area": "",
+          "percentage": "90%",
+          "description": "Área de : 90% de créditos a superar"
+        }
+      ]
+    }
+  },
+  {
+    "file_name": "ayudas_22-23_text.txt",
+    "valid": true,
+    "extraction_date": "2025-03-23 15:16:46",
+    "academic_year": {
+      "year": "2022-2023",
+      "description": "Convocatoria de becas para el curso académico 2022-2023"
+    },
+    "eligible_studies": {
+      "description": "Estudios para los que se puede solicitar beca",
+      "university_studies": [],
+      "non_university_studies": [],
+      "non_university_section": "Enseñanzas postobligatorias y superiores no universitarias",
+      "university_section": "Enseñanzas universitarias del sistema universitario español"
+    },
+    "scholarship_amounts": {
+      "description": "Cuantías y componentes de las becas",
+      "components": [
+        {
+          "type": "Cuantía fija ligada a la renta",
+          "amount": "700.00",
+          "amount_description": "700,00 euros"
+        },
+        {
+          "type": "Cuantía fija ligada a la residencia",
+          "amount": "600.00",
+          "amount_description": "600,00 euros"
+        },
+        {
+          "type": "Cuantía fija ligada a la excelencia académica",
+          "ranges": []
+        },
+        {
+          "type": "Beca básica",
+          "amount": "300.00",
+          "amount_description": "300,00 euros"
+        },
+        {
+          "type": "Cuantía variable",
+          "minimum_amount": "60.00",
+          "amount_description": "Mínimo de 60,00 euros",
+          "formula_description": "Resultará de la ponderación de la nota media del expediente y la renta familiar"
+        }
+      ]
+    },
+    "income_thresholds": {
+      "description": "Umbrales de renta familiar aplicables para la concesión de las becas",
+      "thresholds": [
+        {
+          "number": 1,
+          "family_sizes": [
+            {
+              "size": "1",
+              "amount": "8.422",
+              "description": "Familias de 1 miembros: 8.422 euros"
+            },
+            {
+              "size": "2",
+              "amount": "12.632",
+              "description": "Familias de 2 miembros: 12.632 euros"
+            },
+            {
+              "size": "3",
+              "amount": "16.843",
+              "description": "Familias de 3 miembros: 16.843 euros"
+            },
+            {
+              "size": "4",
+              "amount": "21.054",
+              "description": "Familias de 4 miembros: 21.054 euros"
+            },
+            {
+              "size": "5",
+              "amount": "24.423",
+              "description": "Familias de 5 miembros: 24.423 euros"
+            },
+            {
+              "size": "6",
+              "amount": "27.791",
+              "description": "Familias de 6 miembros: 27.791 euros"
+            },
+            {
+              "size": "7",
+              "amount": "31.160",
+              "description": "Familias de 7 miembros: 31.160 euros"
+            },
+            {
+              "size": "8",
+              "amount": "34.529",
+              "description": "Familias de 8 miembros: 34.529 euros"
+            }
+          ],
+          "additional_info": {
+            "description": "A partir del octavo miembro se añadirán 81,00 euros por cada nuevo miembro computable",
+            "amount_per_member": "81.00"
+          }
+        },
+        {
+          "number": 2,
+          "family_sizes": [
+            {
+              "size": "1",
+              "amount": "13.236",
+              "description": "Familias de 1 miembros: 13.236 euros"
+            },
+            {
+              "size": "2",
+              "amount": "22.594",
+              "description": "Familias de 2 miembros: 22.594 euros"
+            },
+            {
+              "size": "3",
+              "amount": "30.668",
+              "description": "Familias de 3 miembros: 30.668 euros"
+            },
+            {
+              "size": "4",
+              "amount": "36.421",
+              "description": "Familias de 4 miembros: 36.421 euros"
+            },
+            {
+              "size": "5",
+              "amount": "40.708",
+              "description": "Familias de 5 miembros: 40.708 euros"
+            },
+            {
+              "size": "6",
+              "amount": "43.945",
+              "description": "Familias de 6 miembros: 43.945 euros"
+            },
+            {
+              "size": "7",
+              "amount": "47.146",
+              "description": "Familias de 7 miembros: 47.146 euros"
+            },
+            {
+              "size": "8",
+              "amount": "50.333",
+              "description": "Familias de 8 miembros: 50.333 euros"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "family_sizes": [
+            {
+              "size": "1",
+              "amount": "14.112",
+              "description": "Familias de 1 miembros: 14.112 euros"
+            },
+            {
+              "size": "2",
+              "amount": "24.089",
+              "description": "Familias de 2 miembros: 24.089 euros"
+            },
+            {
+              "size": "3",
+              "amount": "32.697",
+              "description": "Familias de 3 miembros: 32.697 euros"
+            },
+            {
+              "size": "4",
+              "amount": "38.831",
+              "description": "Familias de 4 miembros: 38.831 euros"
+            },
+            {
+              "size": "5",
+              "amount": "43.402",
+              "description": "Familias de 5 miembros: 43.402 euros"
+            },
+            {
+              "size": "6",
+              "amount": "46.853",
+              "description": "Familias de 6 miembros: 46.853 euros"
+            },
+            {
+              "size": "7",
+              "amount": "50.267",
+              "description": "Familias de 7 miembros: 50.267 euros"
+            },
+            {
+              "size": "8",
+              "amount": "53.665",
+              "description": "Familias de 8 miembros: 53.665 euros"
+            }
+          ],
+          "additional_info": {
+            "description": "A partir del octavo miembro se añadirán 368,00 euros por cada nuevo miembro computable",
+            "amount_per_member": "368.00"
+          }
+        }
+      ]
+    },
+    "application_deadlines": {
+      "description": "Plazos para presentar la solicitud de beca",
+      "deadlines": []
+    },
+    "academic_requirements": {
+      "description": "Requisitos académicos para obtener beca",
+      "requirements": []
+    }
+  },
+  {
+    "file_name": "ayudas_23-24_text.txt",
+    "valid": true,
+    "extraction_date": "2025-03-23 15:16:46",
+    "academic_year": {
+      "year": "2023-2024",
+      "description": "Convocatoria de becas para el curso académico 2023-2024"
+    },
+    "eligible_studies": {
+      "description": "Estudios para los que se puede solicitar beca",
+      "university_studies": [],
+      "non_university_studies": [],
+      "non_university_section": "Enseñanzas postobligatorias y superiores no universitarias",
+      "university_section": "Enseñanzas universitarias del sistema universitario español"
+    },
+    "scholarship_amounts": {
+      "description": "Cuantías y componentes de las becas",
+      "components": []
+    },
+    "income_thresholds": {
+      "description": "Umbrales de renta familiar aplicables para la concesión de las becas",
+      "thresholds": [
+        {
+          "number": 1,
+          "family_sizes": [
+            {
+              "size": "1",
+              "amount": "8.422",
+              "description": "Familias de 1 miembros: 8.422 euros"
+            },
+            {
+              "size": "2",
+              "amount": "12.632",
+              "description": "Familias de 2 miembros: 12.632 euros"
+            },
+            {
+              "size": "3",
+              "amount": "16.843",
+              "description": "Familias de 3 miembros: 16.843 euros"
+            },
+            {
+              "size": "4",
+              "amount": "21.054",
+              "description": "Familias de 4 miembros: 21.054 euros"
+            },
+            {
+              "size": "5",
+              "amount": "24.423",
+              "description": "Familias de 5 miembros: 24.423 euros"
+            },
+            {
+              "size": "6",
+              "amount": "27.791",
+              "description": "Familias de 6 miembros: 27.791 euros"
+            },
+            {
+              "size": "7",
+              "amount": "31.160",
+              "description": "Familias de 7 miembros: 31.160 euros"
+            },
+            {
+              "size": "8",
+              "amount": "34.529",
+              "description": "Familias de 8 miembros: 34.529 euros"
+            }
+          ],
+          "additional_info": {
+            "description": "A partir del octavo miembro se añadirán 81,00 euros por cada nuevo miembro computable",
+            "amount_per_member": "81.00"
+          }
+        },
+        {
+          "number": 2,
+          "family_sizes": [
+            {
+              "size": "1",
+              "amount": "13.236",
+              "description": "Familias de 1 miembros: 13.236 euros"
+            },
+            {
+              "size": "2",
+              "amount": "22.594",
+              "description": "Familias de 2 miembros: 22.594 euros"
+            },
+            {
+              "size": "3",
+              "amount": "30.668",
+              "description": "Familias de 3 miembros: 30.668 euros"
+            },
+            {
+              "size": "4",
+              "amount": "36.421",
+              "description": "Familias de 4 miembros: 36.421 euros"
+            },
+            {
+              "size": "5",
+              "amount": "40.708",
+              "description": "Familias de 5 miembros: 40.708 euros"
+            },
+            {
+              "size": "6",
+              "amount": "43.945",
+              "description": "Familias de 6 miembros: 43.945 euros"
+            },
+            {
+              "size": "7",
+              "amount": "47.146",
+              "description": "Familias de 7 miembros: 47.146 euros"
+            },
+            {
+              "size": "8",
+              "amount": "50.333",
+              "description": "Familias de 8 miembros: 50.333 euros"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "family_sizes": [
+            {
+              "size": "1",
+              "amount": "14.112",
+              "description": "Familias de 1 miembros: 14.112 euros"
+            },
+            {
+              "size": "2",
+              "amount": "24.089",
+              "description": "Familias de 2 miembros: 24.089 euros"
+            },
+            {
+              "size": "3",
+              "amount": "32.697",
+              "description": "Familias de 3 miembros: 32.697 euros"
+            },
+            {
+              "size": "4",
+              "amount": "38.831",
+              "description": "Familias de 4 miembros: 38.831 euros"
+            },
+            {
+              "size": "5",
+              "amount": "43.402",
+              "description": "Familias de 5 miembros: 43.402 euros"
+            },
+            {
+              "size": "6",
+              "amount": "46.853",
+              "description": "Familias de 6 miembros: 46.853 euros"
+            },
+            {
+              "size": "7",
+              "amount": "50.267",
+              "description": "Familias de 7 miembros: 50.267 euros"
+            },
+            {
+              "size": "8",
+              "amount": "53.665",
+              "description": "Familias de 8 miembros: 53.665 euros"
+            }
+          ],
+          "additional_info": {
+            "description": "A partir del octavo miembro se añadirán 368,00 euros por cada nuevo miembro computable",
+            "amount_per_member": "368.00"
+          }
+        }
+      ]
+    },
+    "application_deadlines": {
+      "description": "Plazos para presentar la solicitud de beca",
+      "deadlines": []
+    },
+    "academic_requirements": {
+      "description": "Requisitos académicos para obtener beca",
+      "requirements": []
+    }
+  },
+  {
+    "file_name": "ayudas_24-25_text.txt",
+    "valid": true,
+    "extraction_date": "2025-03-23 15:16:46",
+    "academic_year": {
+      "year": "2024-2025",
+      "description": "Convocatoria de becas para el curso académico 2024-2025"
+    },
+    "eligible_studies": {
+      "description": "Estudios para los que se puede solicitar beca",
+      "university_studies": [],
+      "non_university_studies": [],
+      "non_university_section": "Enseñanzas postobligatorias y superiores no universitarias",
+      "university_section": "Enseñanzas universitarias del sistema universitario español"
+    },
+    "scholarship_amounts": {
+      "description": "Cuantías y componentes de las becas",
+      "components": []
+    },
+    "income_thresholds": {
+      "description": "Umbrales de renta familiar aplicables para la concesión de las becas",
+      "thresholds": []
+    },
+    "application_deadlines": {
+      "description": "Plazos para presentar la solicitud de beca",
+      "deadlines": []
+    },
+    "academic_requirements": {
+      "description": "Requisitos académicos para obtener beca",
+      "requirements": []
+    }
+  }
+]
