@@ -1,0 +1,160 @@
+{
+  "año_académico": "2024-2025",
+  "articulo_3": {
+    "titulo": "Enseñanzas comprendidas",
+    "descripcion": "Estudios para los que se puede solicitar beca",
+    "destinatarios": {
+      "enseñanzas_no_universitarias": [
+        {
+          "tipo": "Primer y segundo cursos de bachillerato."
+        },
+        {
+          "tipo": "Ciclos de Formación Profesional de grado medio y de grado superior, incluidos los"
+        },
+        {
+          "tipo": "Enseñanzas artísticas profesionales."
+        },
+        {
+          "tipo": "Enseñanzas deportivas."
+        },
+        {
+          "tipo": "Enseñanzas artísticas superiores."
+        },
+        {
+          "tipo": "Estudios religiosos superiores."
+        },
+        {
+          "tipo": "Estudios de"
+        },
+        {
+          "tipo": "Cursos de acceso y cursos de preparación para las pruebas de acceso a la formación"
+        },
+        {
+          "tipo": "Ciclos Formativos de Grado Básico."
+        }
+      ],
+      "enseñanzas_universitarias": [
+        {
+          "tipo": "Enseñanzas universitarias conducentes a títulos oficiales de grado y de máster,"
+        },
+        {
+          "tipo": "Curso de preparación para acceso a la universidad de mayores de 25 años impartido"
+        },
+        {
+          "tipo": "Complementos de formación para acceso u obtención del título de máster y créditos"
+        }
+      ]
+    }
+  },
+  "articulo_11": {
+    "titulo": "Cuantías de las becas",
+    "componentes": []
+  },
+  "articulo_19": {
+    "titulo": "Umbrales de renta",
+    "umbrales": [
+      {
+        "nivel": "Umbral 1",
+        "limites_por_familia": [
+          {
+            "miembros": "8",
+            "renta_maxima": "22107 euros"
+          },
+          {
+            "miembros": "5",
+            "renta_maxima": "2780 euros"
+          }
+        ]
+      },
+      {
+        "nivel": "Umbral 2",
+        "limites_por_familia": [
+          {
+            "miembros": "8",
+            "renta_maxima": "25644 euros"
+          },
+          {
+            "miembros": "5",
+            "renta_maxima": "56348 euros"
+          }
+        ]
+      },
+      {
+        "nivel": "Umbral 3",
+        "limites_por_familia": [
+          {
+            "miembros": "8",
+            "renta_maxima": "29181 euros"
+          },
+          {
+            "miembros": "5",
+            "renta_maxima": "3561 euros"
+          }
+        ]
+      }
+    ]
+  },
+  "articulo_24": {
+    "titulo": "Rendimiento académico en el curso anterior",
+    "requisitos": [
+      {
+        "nivel": "Segundos y posteriores cursos",
+        "porcentajes_creditos_superados": [
+          {
+            "rama": "Artes y Humanidades",
+            "porcentaje": "90%"
+          },
+          {
+            "rama": "Ciencias",
+            "porcentaje": "65%"
+          },
+          {
+            "rama": "Ciencias Sociales y Jurídicas",
+            "porcentaje": "90%"
+          },
+          {
+            "rama": "Ciencias de la Salud",
+            "porcentaje": "80%"
+          },
+          {
+            "rama": "Ingeniería o Arquitectura",
+            "porcentaje": "65%"
+          }
+        ]
+      }
+    ]
+  },
+  "articulo_47": {
+    "titulo": "Modelo de solicitud y documentación a presentar",
+    "procedimiento": [
+      {
+        "paso": "Cumplimentación del formulario",
+        "descripcion": "La solicitud se deberá cumplimentar mediante el formulario accesible por vía telemática a \ntravés de la sede electrónica del Departamento en la dirección https://sede.educacion.gob.es o en \nhttps://www.educacionyfp.gob.es/ \n\nUna vez cumplimentada la solicitud, deberá ser firmada por el interesado o su representante \nlegal  en  el  caso  de  ser  menor  de  18  años  con  cualquiera  de  los  sistemas  de  firma  electrónica \naceptados por la sede electrónica y enviada por el procedimiento telemático establecido, quedando \nasí  presentada  a  todos  los  efectos.  No  serán  tenidas  en  cuenta  aquellas  solicitudes \ncumplimentadas  por  vía  telemática  que  no  completen  el  proceso  de  presentación  establecido, \nobteniendo el resguardo de solicitud que deberá ser conservado por el solicitante para acreditar, \nen caso de que resulte necesario, la presentación de su solicitud en el plazo y forma establecidos."
+      },
+      {
+        "paso": "Firma electrónica",
+        "descripcion": "Una vez cumplimentada la solicitud, deberá ser firmada por el interesado o su representante \nlegal  en  el  caso  de  ser  menor  de  18  años  con  cualquiera  de  los  sistemas  de  firma  electrónica \naceptados por la sede electrónica y enviada por el procedimiento telemático establecido, quedando \nasí  presentada  a  todos  los  efectos.  No  serán  tenidas  en  cuenta  aquellas  solicitudes \ncumplimentadas  por  vía  telemática  que  no  completen  el  proceso  de  presentación  establecido, \nobteniendo el resguardo de solicitud que deberá ser conservado por el solicitante para acreditar, \nen caso de que resulte necesario, la presentación de su solicitud en el plazo y forma establecidos."
+      },
+      {
+        "paso": "Autorización de datos",
+        "descripcion": "Asimismo, el solicitante o su representante legal en el caso de ser menor de 18 años y los \ndemás  miembros  computables  de  la  unidad  familiar  autorizarán  a  las  universidades  y  a  las \nadministraciones  educativas,  con  su  firma  en  la  propia  solicitud  electrónica,  a  obtener  de  otras \nadministraciones públicas la información que resulte precisa para la determinación, conocimiento \ny  comprobación  de  todos  los  datos  de  identificación,  circunstancias  personales,  de  residencia, \nacadémicas  y  familiares  así  como  de  la  renta  y  patrimonio  necesarios  para  la  resolución  de  la \nsolicitud de beca. Excepcionalmente esta autorización podrá presentarse en las universidades o \nen  las  administraciones  educativas  en  soporte  papel.  La  ausencia  de  esta  autorización  que \nimposibilita la comprobación de dichas circunstancias dará lugar a la denegación de la solicitud."
+      }
+    ]
+  },
+  "articulo_48": {
+    "titulo": "Lugar y plazo de presentación de solicitudes",
+    "plazos": [
+      {
+        "tipo": "General",
+        "fecha_limite": "31 de diciembre de 2024"
+      }
+    ],
+    "lugares_presentacion": [
+      "Sede electrónica (procedimiento principal)",
+      "Registros",
+      "Oficinas de correos",
+      "Oficinas consulares de España",
+      "Formas previstas en el artículo 16.4 de la Ley 39/2015"
+    ]
+  }
+}

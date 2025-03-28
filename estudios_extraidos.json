@@ -1,0 +1,466 @@
+{
+  "estudios_universitarios": [
+    {
+      "identificador": "a)",
+      "descripcion": "Enseñanzas universitarias conducentes a títulos oficiales de grado y de máster,"
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "Curso de preparación para acceso a la universidad de mayores de 25 años impartido"
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "Complementos de formación para acceso u obtención del título de máster y créditos"
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Beca de matrícula."
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "Cuantía fija ligada a la renta del estudiante."
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "Cuantía fija ligada a la residencia del estudiante durante el curso escolar."
+    },
+    {
+      "identificador": "d)",
+      "descripcion": "Cuantía fija ligada a la excelencia en el rendimiento académico"
+    },
+    {
+      "identificador": "e)",
+      "descripcion": "Beca básica."
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Enseñanzas de grado superior de formación profesional, de artes plásticas y diseño y de"
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "Enseñanzas de bachillerato, enseñanzas profesionales de música y danza y grado medio"
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "Enseñanzas artísticas superiores y estudios religiosos superiores."
+    },
+    {
+      "identificador": "d)",
+      "descripcion": "Enseñanzas universitarias conducentes al título de grado"
+    },
+    {
+      "identificador": "e)",
+      "descripcion": "Enseñanzas universitarias conducentes al título de máster"
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "No estar en posesión o no reunir los requisitos legales para la obtención de un título oficial"
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "Cumplir los requisitos básicos establecidos en el Real Decreto 1721/2007, de 21 de"
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "Estar matriculado en alguna de las enseñanzas del sistema educativo español que se"
+    },
+    {
+      "identificador": "d)",
+      "descripcion": "Ser español o poseer la nacionalidad de un Estado miembro de la Unión Europea. En el"
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Se sumará la base imponible general con la base imponible del ahorro, excluyendo todos"
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "De este resultado se restará la cuota resultante de la autoliquidación."
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "El 50 por 100 de los ingresos aportados por cualquier miembro computable de la familia"
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "525,00 euros por cada hermano que sea miembro computable, incluido el solicitante, que"
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "1.811,00 euros por cada hermano o hijo del solicitante o el propio solicitante que esté"
+    },
+    {
+      "identificador": "d)",
+      "descripcion": "1.176,00 euros por cada hermano del solicitante o el propio solicitante menor de 25 años"
+    },
+    {
+      "identificador": "e)",
+      "descripcion": "El 20 % de la renta familiar cuando el solicitante sea huérfano absoluto y menor de 25 años."
+    },
+    {
+      "identificador": "f)",
+      "descripcion": "500,00 euros por pertenecer el solicitante a una familia monoparental. A estos efectos, se"
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "La suma de los valores catastrales de las fincas urbanas que pertenezcan a los miembros"
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "La suma de los valores catastrales de las construcciones situadas en fincas rústicas,"
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "La suma de los valores catastrales de las fincas rústicas excluidos los valores catastrales de"
+    },
+    {
+      "identificador": "d)",
+      "descripcion": "La suma de todos los rendimientos netos reducidos del capital mobiliario más el saldo neto"
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Ingresos procedentes de actividades económicas en estimación directa o en estimación"
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "Ingresos procedentes de una participación de los miembros computables desarrolladas a"
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Matrícula de Honor = 10 puntos."
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "Sobresaliente = 9 puntos."
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "Notable = 7,5 puntos."
+    },
+    {
+      "identificador": "d)",
+      "descripcion": "Aprobado o apto = 5,5 puntos."
+    },
+    {
+      "identificador": "e)",
+      "descripcion": "Suspenso, no presentado o no apto = 2,50 puntos."
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Quienes opten por la matrícula parcial y no se matriculen de todos aquellos créditos de los"
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "En aquellos casos en los que, en virtud de la normativa propia de la universidad, resulte"
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Quienes opten por la matrícula parcial, y no se matriculen de todos aquellos créditos de los"
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "En aquellos casos en los que, en virtud de la normativa propia de la Universidad, resulte"
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "El número mínimo de créditos fijado en los párrafos anteriores en que el estudiante debe"
+    },
+    {
+      "identificador": "d)",
+      "descripcion": "Las asignaturas o créditos reconocidos, convalidados y adaptados no se tendrán en cuenta"
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Matrícula de Honor = 10 puntos."
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "Sobresaliente = 9 puntos."
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "Notable = 7,5 puntos."
+    },
+    {
+      "identificador": "d)",
+      "descripcion": "Aprobado o apto = 5,5 puntos."
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Matrícula de Honor = 10 puntos."
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "Sobresaliente = 9 puntos."
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "Notable = 7,5 puntos."
+    },
+    {
+      "identificador": "d)",
+      "descripcion": "Aprobado o apto = 5,5 puntos."
+    },
+    {
+      "identificador": "e)",
+      "descripcion": "Suspenso, no presentado o no apto = 2,50 puntos."
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Para todos los alumnos:"
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "Para determinadas titulaciones:"
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Destinar la beca a la finalidad para la que se concede, entendiéndose por tal la matriculación,"
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "Acreditar ante la entidad concedente el cumplimiento de los requisitos y condiciones que"
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "Someterse a las actuaciones de comprobación precisas para verificar, en su caso, el"
+    },
+    {
+      "identificador": "d)",
+      "descripcion": "Declarar, específicamente en los supuestos de cambio de estudios, el hecho de haber sido"
+    },
+    {
+      "identificador": "e)",
+      "descripcion": "Comunicar a la entidad concedente la obtención de subvenciones o becas para la misma"
+    },
+    {
+      "identificador": "f)",
+      "descripcion": "Poner en conocimiento de la entidad concedente la anulación de matrícula, así como"
+    },
+    {
+      "identificador": "g)",
+      "descripcion": "Proceder al reintegro de los fondos en los casos previstos en la normativa vigente."
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Anulación de la matrícula o abandono de hecho de los estudios."
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "En el caso de estudiantes que hayan obtenido la beca para la realización del proyecto fin de"
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Haber causado baja de hecho en el centro, antes de final del curso 2022-2023"
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "No haber asistido a un ochenta por ciento o más de las horas lectivas, salvo dispensa de"
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "No haber superado el cincuenta por ciento de las asignaturas, créditos u horas matriculadas,"
+    },
+    {
+      "identificador": "d)",
+      "descripcion": "No haber superado el curso completo en el caso del curso de acceso o del curso de"
+    },
+    {
+      "identificador": "e)",
+      "descripcion": "En el caso de estudiantes que hayan obtenido la beca para la realización del proyecto fin de"
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Que aceptan las bases de la convocatoria para la que solicitan beca."
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "Que todos los datos incorporados a la solicitud se ajustan a la realidad."
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "Que quedan enterados de que la inexactitud en las circunstancias declaradas dará"
+    },
+    {
+      "identificador": "d)",
+      "descripcion": "Que tienen conocimiento de la incompatibilidad de estas becas y que, en caso de"
+    },
+    {
+      "identificador": "e)",
+      "descripcion": "Que manifiestan su conformidad para recibir notificaciones de forma telemática vía"
+    },
+    {
+      "identificador": "f)",
+      "descripcion": "Que el solicitante es titular o cotitular de la cuenta corriente o libreta que ha consignado"
+    },
+    {
+      "identificador": "g)",
+      "descripcion": "Que autorizan a las administraciones educativas a hacer públicas las relaciones de los"
+    },
+    {
+      "identificador": "h)",
+      "descripcion": "Que autorizan el tratamiento de los datos del solicitante."
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Presidente: El vicerrector o autoridad académica que designe el rector de la universidad."
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "Vicepresidente: El gerente de la universidad o persona en quien delegue."
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "Vocales: Tres profesores, como mínimo, de la universidad; un representante de la"
+    },
+    {
+      "identificador": "d)",
+      "descripcion": "Secretario: El jefe de la Unidad de becas de la gerencia universitaria."
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Presidente: El director provincial del Ministerio de Educación y Formación Profesional"
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "Vocales: Dos inspectores técnicos; el jefe de programas; el jefe del servicio y/o jefe de la"
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "Secretario: El funcionario encargado de la gestión de becas que designe el director"
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Los datos de identificación del titular de la credencial."
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "La referencia expresa al Real Decreto 1721/2007, de 21 de diciembre."
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "Texto en el que se comunique al titular su selección como becario, de acuerdo con los"
+    },
+    {
+      "identificador": "d)",
+      "descripcion": "Determinación de la o de la/s cuantía/s concedidas."
+    },
+    {
+      "identificador": "e)",
+      "descripcion": "del procedimiento de consulta de su renta y sus notas."
+    },
+    {
+      "identificador": "f)",
+      "descripcion": "Información sobre el procedimiento y plazos de posible formulación de alegaciones."
+    },
+    {
+      "identificador": "g)",
+      "descripcion": "Indicaciones precisas sobre el procedimiento para hacer efectivo el importe de la beca. 4. Tanto las notificaciones de concesión como las propuestas de denegación podrán emitirse por cualquiera de los medios admitidos en la normativa reguladora del procedimiento administrativo incluidos correos electrónicos, debiendo los interesados proceder a efectuar la descarga de su contenido en la dirección electrónica https://sede.educacion.gob.es en el apartado «Mis Notificaciones». 5. Conocido el coste de las referidas cuantías y, por tanto, el importe no invertido en las mismas, el Secretario de Estado de Educación del Ministerio de Educación y Formación Profesional y el Secretario General de Universidades, del Ministerio de Universidades dictarán resolución asignando el porcentaje de dicho importe que se destinará a la cuantía variable que corresponda, por una parte, a los estudiantes universitarios, de enseñanzas artísticas superiores y de estudios religiosos superiores y, por otra, a los demás estudiantes no universitarios. El Ministerio de Educación y Formación Profesional distribuirá los referidos montantes entre todos los becarios que tengan derecho a la cuantía variable conforme a lo dispuesto en esta convocatoria, con excepción de quienes ya hayan percibido la cuantía variable mínima. Dicha distribución se efectuará mediante la aplicación de la fórmula recogida en el artículo 10 de esta Resolución que asignará a cada uno de los becarios el importe de cuantía variable que les corresponda. 40 i i . . . t l u s n o c / s o c v r e s / t n o r F e d e S g a p / s e . b o g . n o c a r t s n m d a . e d e s / / : s p t t h i i i : i n ó c c e r i d i e t n e u g s a i l n e o t n e m u c o d e t s e e d d a d i r g e t n i a l r a c i f i r e v e d e u P | 4 e 7 0 - c 7 5 d - 1 9 2 a - 1 a c b - b f b b - 8 a 3 5 - 9 c 1 f - 7 e 1 e - N E G : i n ó c a c i f i r e V e d o r u g e s i o g d ó C CSV : GEN-e1e7-f1c9-53a8-bbfb-bca1-a291-d57c-07e4 DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm FIRMANTE(1) : ALEJANDRO TIANA FERRER | FECHA : 10/03/2022 18:15 | Aprueba 6. Efectuada dicha asignación, la SGBecas, como órgano instructor del procedimiento, elevará la propuesta de concesión de las cuantías variables. El Director General de Planificación y Gestión Educativa, en virtud de las competencias delegadas del Secretario de Estado de Educación, de acuerdo con la Orden EFP/43/2021, de 21 de enero, dictará la resolución definitiva de la convocatoria en el plazo de seis meses computados a partir del momento en que el Ministerio de Educación y Formación Profesional disponga de la información facilitada por las administraciones públicas, las universidades y las comunidades autónomas firmantes del convenio que resulta necesaria para la adjudicación o denegación de la cuantía variable. La concesión de la cuantía variable se notificará a sus beneficiarios por el mismo procedimiento establecido en el apartado 4 anterior. 7. La resolución de concesión y las relaciones definitivas de los beneficiarios de las ayudas concedidas se publicarán en la página web del Ministerio de Educación y Formación Profesional, entendiéndose que quedan denegadas por el mismo motivo indicado en la propuesta de denegación las solicitudes presentadas que no aparezcan publicadas. Artículo. 53 Pago de las becas. 1. El Ministerio de Educación y Formación Profesional confeccionará los soportes informáticos necesarios para el procedimiento de pago tanto de las cuantías inicialmente concedidas como de las cuantías variables concedidas en un momento posterior. 2. El Director General de Planificación y Gestión Educativa, asimismo por delegación del Secretario de Estado de Educación, ordenará la provisión de fondos al Tesoro Público y a las comunidades autónomas firmantes del convenio a que se refiere el artículo 65 de esta Resolución, que efectuarán el pago de las becas concedidas a la cuenta corriente o libreta de ahorro que el interesado haya consignado en la solicitud y que deberá estar abierta a nombre del becario y, tratándose de menores, también de la persona cuya representación corresponda legalmente en entidades de crédito. Artículo 54. Exención de los precios públicos por servicios académicos y abono a las universidades. 1. Los estudiantes universitarios que soliciten beca podrán formalizar su matrícula sin el previo pago de los precios públicos por servicios académicos de aquellos créditos de los que se matriculen por primera vez. 2. No obstante, lo dispuesto en el párrafo anterior, las secretarías de los centros universitarios podrán requerir cautelarmente el abono de dichos precios públicos a quienes no cumplan los requisitos establecidos en esta convocatoria. 3. Conforme a lo dispuesto en la disposición adicional cuarta del Real Decreto 154/2022, de 22 de febrero, por el que se establecen los umbrales de renta y patrimonio familiar y las cuantías de las becas y ayudas al estudio para el curso 2022-2023 y se modifica parcialmente el Real Decreto 1721/2007, de 21 de diciembre, el Ministerio de Educación y Formación Profesional aportará a las universidades, en concepto de compensación de los precios públicos por servicios académicos correspondientes a los estudiantes becarios exentos de su pago, una cantidad por estudiante becado igual a la del precio público fijado para la titulación correspondiente en el curso 2022-2023 con las siguientes precisiones:"
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "En el supuesto de que el precio del crédito en los estudios conducentes al título de Grado"
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "En el supuesto de que el precio del crédito en los estudios conducentes al título de Máster"
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "En el supuesto de que el precio del crédito en los estudios conducentes al título de Máster"
+    },
+    {
+      "identificador": "d)",
+      "descripcion": "En el supuesto de becarios matriculados en los Másteres que en el curso de referencia"
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Resuelta la convocatoria, las universidades solicitarán a la Dirección General de"
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "Las solicitudes irán acompañadas de una certificación del presidente de la comisión de"
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "Asimismo, las universidades acreditarán que se encuentran al corriente de obligaciones"
+    },
+    {
+      "identificador": "d)",
+      "descripcion": "La Dirección General de Planificación y Gestión Educativa requerirá a las universidades el"
+    },
+    {
+      "identificador": "e)",
+      "descripcion": "Podrán efectuarse libramientos parciales con el carácter de compensación «a cuenta» en"
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Cuantía fija ligada a la renta."
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "Cuantía fija ligada a la residencia."
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "Cuantía fija ligada a la excelencia académica"
+    },
+    {
+      "identificador": "d)",
+      "descripcion": "Beca básica."
+    },
+    {
+      "identificador": "e)",
+      "descripcion": "Cuantía variable mínima."
+    },
+    {
+      "identificador": "a)",
+      "descripcion": "Presidente: El consejero de educación o persona en quien delegue."
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "Vocales: Un asesor técnico de la consejería, un director de centro designado por el"
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "Actuará como secretario un secretario de centro docente."
+    }
+  ],
+  "estudios_no_universitarios": [
+    {
+      "identificador": "a)",
+      "descripcion": "Primer y segundo cursos de bachillerato."
+    },
+    {
+      "identificador": "b)",
+      "descripcion": "Formación Profesional de grado medio y de grado superior, incluidos los estudios de"
+    },
+    {
+      "identificador": "c)",
+      "descripcion": "Enseñanzas artísticas profesionales."
+    },
+    {
+      "identificador": "d)",
+      "descripcion": "Enseñanzas deportivas."
+    },
+    {
+      "identificador": "e)",
+      "descripcion": "Enseñanzas artísticas superiores."
+    },
+    {
+      "identificador": "f)",
+      "descripcion": "Estudios religiosos superiores."
+    },
+    {
+      "identificador": "g)",
+      "descripcion": "Estudios de"
+    },
+    {
+      "identificador": "h)",
+      "descripcion": "Cursos de acceso y cursos de preparación para las pruebas de acceso a la formación"
+    },
+    {
+      "identificador": "i)",
+      "descripcion": "Ciclos Formativos de Grado Básico"
+    }
+  ]
+}

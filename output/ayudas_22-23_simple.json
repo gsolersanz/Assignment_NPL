@@ -1,0 +1,196 @@
+{
+  "año_académico": "2022-2023",
+  "articulo_3": {
+    "titulo": "Enseñanzas comprendidas",
+    "descripcion": "Estudios para los que se puede solicitar beca",
+    "destinatarios": {
+      "enseñanzas_no_universitarias": [
+        {
+          "tipo": "Primer y segundo cursos de bachillerato."
+        },
+        {
+          "tipo": "Formación Profesional de grado medio y de grado superior, incluidos los estudios de formación profesional realizados en los centros docentes militares."
+        },
+        {
+          "tipo": "Enseñanzas artísticas profesionales."
+        },
+        {
+          "tipo": "Enseñanzas deportivas."
+        },
+        {
+          "tipo": "Enseñanzas artísticas superiores."
+        },
+        {
+          "tipo": "Estudios religiosos superiores."
+        },
+        {
+          "tipo": "Estudios de idiomas realizados en escuelas oficiales de titularidad de las administraciones educativas, incluida la modalidad de distancia. i i . . . t l u s n o c / s o c v r e s / t n o r F e d e S g a p / s e . b o g . n o c a r t s n m d a . e d e s / / : s p t t h i i i : i n ó c c e r i d i e t n e u g s a i l n e o t n e m u c o d e t s e e d d a d i r g e t n i a l r a c i f i r e v e d e u P | 4 e 7 0 - c 7 5 d - 1 9 2 a - 1 a c b - b f b b - 8 a 3 5 - 9 c 1 f - 7 e 1 e - N E G : i n ó c a c i f i r e V e d o r u g e s i o g d ó C 4"
+        },
+        {
+          "tipo": "Cursos de acceso y cursos de preparación para las pruebas de acceso a la formación profesional y cursos de formación específicos para el acceso a los ciclos formativos de grado medio y de grado superior impartidos en centros públicos y en centros privados concertados que tengan autorizadas enseñanzas de formación profesional."
+        },
+        {
+          "tipo": "Ciclos Formativos de Grado Básico"
+        }
+      ],
+      "enseñanzas_universitarias": [
+        {
+          "tipo": "Enseñanzas universitarias conducentes a títulos oficiales de grado y de máster, incluidos los estudios de grado y máster cursados en los centros universitarios de la defensa y de la guardia civil."
+        },
+        {
+          "tipo": "Curso de preparación para acceso a la universidad de mayores de 25 años impartido por universidades públicas."
+        },
+        {
+          "tipo": "Complementos de formación para acceso u obtención del título de máster y créditos complementarios para la obtención del título de grado. No se incluyen en esta convocatoria las becas para la realización de estudios correspondientes al tercer ciclo o doctorado, estudios de especialización ni títulos propios de las universidades."
+        }
+      ]
+    }
+  },
+  "articulo_11": {
+    "titulo": "Cuantías de las becas",
+    "componentes": [
+      {
+        "tipo": "Gratuidad de la matrícula",
+        "descripcion": "Beca de matrícula: Comprenderá el precio público oficial de los servicios académicos universitarios correspondiente a los créditos en que se haya matriculado el estudiante por primera vez en el curso 2022-2023, en los términos previstos en el artículo 5 de esta Resolución.",
+        "cuantia": "Cobertura del precio público oficial de los servicios académicos"
+      },
+      {
+        "tipo": "Cuantía fija ligada a la renta del solicitante",
+        "descripcion": "Cuantía fija ligada a la renta del solicitante: 1.700,00 euros.",
+        "cuantia": "700.00"
+      },
+      {
+        "tipo": "Cuantía fija ligada a la residencia del solicitante durante el curso",
+        "descripcion": "Cuantía fija ligada a la residencia del solicitante durante el curso: 1.600,00 euros.",
+        "cuantia": "600.00"
+      },
+      {
+        "tipo": "Cuantía fija ligada a la excelencia académica",
+        "descripcion": "Cuantía fija ligada a la excelencia académica: entre 50 y 125 euros con la siguiente distribución:   Nota media del estudiante  Cuantía en euros  Entre 8,00 y 8,49 puntos  50 euros  Entre 8,50 y 8,99 puntos  75 euros  Entre 9,00 y 9,49 puntos  100 euros  9,50 puntos o más   125 euros",
+        "rangos": [
+          {
+            "nota": "Entre 8.00 y 8.49 puntos",
+            "cuantia": "50 euros"
+          },
+          {
+            "nota": "Entre 8.50 y 8.99 puntos",
+            "cuantia": "75 euros"
+          },
+          {
+            "nota": "Entre 9.00 y 9.49 puntos",
+            "cuantia": "100 euros"
+          },
+          {
+            "nota": "Entre 8.00 y 10.00 puntos",
+            "cuantia": "125 euros"
+          }
+        ]
+      },
+      {
+        "tipo": "Beca básica",
+        "descripcion": "Beca básica: 300,00 euros. En el caso de los becarios que cursen Ciclos Formativos de Grado Básico esta cuantía será de 350 euros.   \n\ni\n\ni\n\n.\n.\n.\nt\nl\nu\ns\nn\no\nc\n/\ns\no\nc\nv\nr\ne\ns\n/\nt\nn\no\nr\nF\ne\nd\ne\nS\ng\na\np\n/\ns\ne\n.\nb\no\ng\n.\nn\no\nc\na\nr\nt\ns\nn\nm\nd\na\n.\ne\nd\ne\ns\n/\n/\n:\ns\np\nt\nt\nh\n\ni\n\ni\n\ni\n\n:\n\ni\n\nn\nó\nc\nc\ne\nr\ni\nd\n\ni\n\ne\nt\nn\ne\nu\ng\ns\na\n\ni\n\nl\n\nn\ne\n\no\nt\nn\ne\nm\nu\nc\no\nd\n\ne\nt\ns\ne\n\ne\nd\n\nd\na\nd\ni\nr\ng\ne\nt\nn\n\ni\n\na\n\nl\n\nr\na\nc\ni\nf\ni\nr\ne\nv\n\ne\nd\ne\nu\nP\n\n|\n\n4\ne\n7\n0\n-\nc\n7\n5\nd\n-\n1\n9\n2\na\n-\n1\na\nc\nb\n-\nb\nf\nb\nb\n-\n8\na\n3\n5\n-\n9\nc\n1\nf\n-\n7\ne\n1\ne\n-\nN\nE\nG\n\n:\n\ni\n\nn\nó\nc\na\nc\ni\nf\ni\nr\ne\nV\ne\nd\n\no\nr\nu\ng\ne\ns\n\ni\n\no\ng\nd\nó\nC\n\n10",
+        "cuantia": "300.00",
+        "casos_especiales": [
+          {
+            "tipo": "Ciclos Formativos de Grado Básico",
+            "cuantia": "350 euros"
+          }
+        ]
+      },
+      {
+        "tipo": "Cuantía variable",
+        "descripcion": "Cuantía variable y distinta para los diferentes solicitantes que resultará de la ponderación de la nota media del expediente del estudiante y de su renta familiar y cuyo importe mínimo será de 60,00 euros.",
+        "cuantia": "Mínimo de 60,00 euros"
+      }
+    ]
+  },
+  "articulo_19": {
+    "titulo": "Umbrales de renta",
+    "umbrales": [
+      {
+        "nivel": "Umbral 1",
+        "limites_por_familia": [
+          {
+            "miembros": "1",
+            "renta_maxima": "8422 euros"
+          }
+        ]
+      }
+    ]
+  },
+  "articulo_24": {
+    "titulo": "Rendimiento académico en el curso anterior",
+    "requisitos": [
+      {
+        "nivel": "Primer curso de grado",
+        "nota_minima": "5,00 puntos"
+      },
+      {
+        "nivel": "Segundos y posteriores cursos",
+        "porcentajes_creditos_superados": [
+          {
+            "rama": "Artes y Humanidades",
+            "porcentaje": "90%"
+          },
+          {
+            "rama": "Ciencias",
+            "porcentaje": "65%"
+          },
+          {
+            "rama": "Ciencias Sociales y Jurídicas",
+            "porcentaje": "90%"
+          },
+          {
+            "rama": "Ciencias de la Salud",
+            "porcentaje": "80%"
+          },
+          {
+            "rama": "Ingeniería o Arquitectura",
+            "porcentaje": "65%"
+          }
+        ]
+      }
+    ]
+  },
+  "articulo_47": {
+    "titulo": "Modelo de solicitud y documentación a presentar",
+    "procedimiento": [
+      {
+        "paso": "Cumplimentación del formulario",
+        "descripcion": "La solicitud se deberá cumplimentar mediante el formulario accesible por vía telemática a través de la sede electrónica del Departamento en la dirección https://sede.educacion.gob.es o en www.educacionyfp.gob.es     Una vez cumplimentada la solicitud, deberá ser firmada por el interesado o su representante legal en el caso de ser menor de 18 años con cualquiera de los sistemas de firma electrónica  \n\ni\n\ni\n\n.\n.\n.\nt\nl\nu\ns\nn\no\nc\n/\ns\no\nc\nv\nr\ne\ns\n/\nt\nn\no\nr\nF\ne\nd\ne\nS\ng\na\np\n/\ns\ne\n.\nb\no\ng\n.\nn\no\nc\na\nr\nt\ns\nn\nm\nd\na\n.\ne\nd\ne\ns\n/\n/\n:\ns\np\nt\nt\nh\n\ni\n\ni\n\ni\n\n:\n\ni\n\nn\nó\nc\nc\ne\nr\ni\nd\n\ni\n\ne\nt\nn\ne\nu\ng\ns\na\n\ni\n\nl\n\nn\ne\n\no\nt\nn\ne\nm\nu\nc\no\nd\n\ne\nt\ns\ne\n\ne\nd\n\nd\na\nd\ni\nr\ng\ne\nt\nn\n\ni\n\na\n\nl\n\nr\na\nc\ni\nf\ni\nr\ne\nv\n\ne\nd\ne\nu\nP\n\n|\n\n4\ne\n7\n0\n-\nc\n7\n5\nd\n-\n1\n9\n2\na\n-\n1\na\nc\nb\n-\nb\nf\nb\nb\n-\n8\na\n3\n5\n-\n9\nc\n1\nf\n-\n7\ne\n1\ne\n-\nN\nE\nG\n\n:\n\ni\n\nn\nó\nc\na\nc\ni\nf\ni\nr\ne\nV\ne\nd\n\no\nr\nu\ng\ne\ns\n\ni\n\no\ng\nd\nó\nC\n\n35      aceptados por la sede electrónica y enviada por el procedimiento telemático establecido, quedando así presentada a todos los efectos. No serán tenidas en cuenta aquellas solicitudes cumplimentadas por vía telemática que no completen el proceso de presentación establecido, obteniendo el resguardo de solicitud que deberá ser conservado por el solicitante para acreditar, en caso de que resulte necesario, la presentación de su solicitud en el plazo y forma establecidos."
+      },
+      {
+        "paso": "Firma electrónica",
+        "descripcion": "Una vez cumplimentada la solicitud, deberá ser firmada por el interesado o su representante legal en el caso de ser menor de 18 años con cualquiera de los sistemas de firma electrónica  \n\ni\n\ni\n\n.\n.\n.\nt\nl\nu\ns\nn\no\nc\n/\ns\no\nc\nv\nr\ne\ns\n/\nt\nn\no\nr\nF\ne\nd\ne\nS\ng\na\np\n/\ns\ne\n.\nb\no\ng\n.\nn\no\nc\na\nr\nt\ns\nn\nm\nd\na\n.\ne\nd\ne\ns\n/\n/\n:\ns\np\nt\nt\nh\n\ni\n\ni\n\ni\n\n:\n\ni\n\nn\nó\nc\nc\ne\nr\ni\nd\n\ni\n\ne\nt\nn\ne\nu\ng\ns\na\n\ni\n\nl\n\nn\ne\n\no\nt\nn\ne\nm\nu\nc\no\nd\n\ne\nt\ns\ne\n\ne\nd\n\nd\na\nd\ni\nr\ng\ne\nt\nn\n\ni\n\na\n\nl\n\nr\na\nc\ni\nf\ni\nr\ne\nv\n\ne\nd\ne\nu\nP\n\n|\n\n4\ne\n7\n0\n-\nc\n7\n5\nd\n-\n1\n9\n2\na\n-\n1\na\nc\nb\n-\nb\nf\nb\nb\n-\n8\na\n3\n5\n-\n9\nc\n1\nf\n-\n7\ne\n1\ne\n-\nN\nE\nG\n\n:\n\ni\n\nn\nó\nc\na\nc\ni\nf\ni\nr\ne\nV\ne\nd\n\no\nr\nu\ng\ne\ns\n\ni\n\no\ng\nd\nó\nC\n\n35      aceptados por la sede electrónica y enviada por el procedimiento telemático establecido, quedando así presentada a todos los efectos. No serán tenidas en cuenta aquellas solicitudes cumplimentadas por vía telemática que no completen el proceso de presentación establecido, obteniendo el resguardo de solicitud que deberá ser conservado por el solicitante para acreditar, en caso de que resulte necesario, la presentación de su solicitud en el plazo y forma establecidos."
+      },
+      {
+        "paso": "Autorización de datos",
+        "descripcion": "Asimismo, el solicitante o su representante legal en el caso de ser menor de 18 años y los demás miembros computables de la unidad familiar autorizarán a las universidades y a las administraciones educativas, con su firma en la propia solicitud electrónica, a obtener de otras administraciones públicas la información que resulte precisa para la determinación, conocimiento y comprobación de todos los datos de identificación, circunstancias personales, de residencia, académicas y familiares así como de la renta y patrimonio necesarios para la resolución de la solicitud de beca. Excepcionalmente esta autorización podrá presentarse en las universidades o en las administraciones educativas en soporte papel. La ausencia de esta autorización que imposibilita la comprobación de dichas circunstancias dará lugar a la denegación de la solicitud."
+      },
+      {
+        "paso": "Documentación específica",
+        "descripcion": "Los solicitantes que tengan derecho a alguna de las deducciones en la renta familiar, de conformidad con lo dispuesto en el artículo 18 de esta Resolución o quienes sean titulares o partícipes de las actividades económicas a que se refiere el artículo"
+      }
+    ]
+  },
+  "articulo_48": {
+    "titulo": "Lugar y plazo de presentación de solicitudes",
+    "plazos": [
+      {
+        "tipo": "General",
+        "fecha_limite": "12 de mayo de 2022"
+      }
+    ],
+    "lugares_presentacion": [
+      "Sede electrónica (procedimiento principal)",
+      "Registros",
+      "Oficinas de correos",
+      "Oficinas consulares de España",
+      "Formas previstas en el artículo 16.4 de la Ley 39/2015"
+    ],
+    "casos_excepcionales": {
+      "plazo": "31 de diciembre de 2022",
+      "condiciones": "fallecimiento del sustentador principal de la familia, o por jubilación forzosa del mismo que no se produzca por cumplir la edad reglamentaria ocurridos después de transcurrido dicho plazo"
+    }
+  }
+}
